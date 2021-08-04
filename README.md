@@ -1,11 +1,15 @@
-# Hi , I'm RAYED  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi , I'm Swapnil  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-rayed-hossain&label=Profile%20views&color=129e00&style=plastic" alt="kazi-rayed-hossain" /> </p>
 <img align="right" alt="Coding"  src="https://github.com/kazi-rayed-hossain/kazi-rayed-hossain/blob/f0299ca30f66e4c6aee5b4e3a26579c419963678/code.gif?raw=true" width="500" height="320" >
 
 <br />
 
 ---
-Hello, I'm Kazi Rayed Hossain. I'm a computer science graduate.
+Enthusiast about learning new technologies and
+hardworking person pursuing an opportunity to work with
+experts to enhance my knowledge and expertise and to
+take part in the company's business development.
+
 
 :mailbox: Reach me out!
 
