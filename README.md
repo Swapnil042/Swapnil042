@@ -69,6 +69,13 @@ take part in the company's business development.
 <br />
 
 ---
+### 📕 Certifications 
+- [Object-Oriented Programming withJava](www.coursera.org/account/accomplishments/certificate/35H3SN75PFYN)
+- [React - The Complete Guide (incl Hooks,React Router, Redux)](ww.udemy.com/certificate/UC6d181f35-29dd-43f3-92ead5d42ca242ef)
+- [The Complete Node.js Developer Guide](ww.udemy.com/certificate/UC1a5729a5-9164-4884-aa1bc7bc8cc41be5)
+<br />
+
+---
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Swapnil042">
