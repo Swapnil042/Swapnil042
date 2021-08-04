@@ -15,7 +15,7 @@ take part in the company's business development.
 :mailbox: Reach me out!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sheikh-swapnil-musa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-swapnil-musa-8aa9b5185) 
+[![Linkedin Badge](https://img.shields.io/badge/-sheikh-swapnil-musa-8aa9b5185?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-swapnil-musa-8aa9b5185) 
 [![Instagram Badge](https://img.shields.io/badge/-@iam_rayed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iam_rayed) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rayedhossain9@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@Rayed_248-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Rayed_248) 
