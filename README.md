@@ -15,7 +15,7 @@ take part in the company's business development.
 :mailbox: Reach me out!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sheikh-swapnil-musa-8aa9b5185?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-swapnil-musa-8aa9b5185) 
+[![Linkedin Badge](https://img.shields.io/badge/-rayed_hossain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayed-hossain/) 
 [![Instagram Badge](https://img.shields.io/badge/-@iam_rayed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iam_rayed) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rayedhossain9@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@Rayed_248-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Rayed_248) 
@@ -28,32 +28,49 @@ take part in the company's business development.
 
 
 ### Languages and Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"></code>
+
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5bW6QIpU8Lv2kDK9F6w7gLmplBcqQsUrfOIO4XOCf3jK4261C40c5-gUrHZkZkwQXcQg&usqp=CAU"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://w1.pngwing.com/pngs/340/348/png-transparent-postgresql-logo-psql-blue-text-line-area-thumbnail.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
-<code><img height="20" src="https://sereviso.com/wp-content/uploads/2018/06/power-bi-1.jpg" /></code>
-
-
 <br />
 <br />
 
 --- 
-  
-## &#x1f4c8; GitHub Stats
+## :computer: Technical Skills
+- Data Structure, Algorithm, clear understanding of Object-Oriented Programming
+- Working experience with various npm/yarn packages
+- Basic knowledge of Jest testing framework
+- Familiar with templating engines like EJS, Pug.
+- Understanding of REST API
+- Testing API endpoints with Postman
+- Understanding of UML Diagram, Class Diagram, ER Diagram
+- Various algorithms of Machine Learning, Pattern Recognition,
+- Artificial Intelligence Knowledge on Version Control, Git
+<br />
+
 ---
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/Swapnil042">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil042&show_icons=true&theme=gotham" />
 </a>
