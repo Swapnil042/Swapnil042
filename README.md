@@ -55,9 +55,9 @@ take part in the company's business development.
 ## &#x1f4c8; GitHub Stats
 ---
 <a href="https://github.com/Swapnil042">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&show_icons=true&theme=gotham" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil042&show_icons=true&theme=gotham" />
 </a>
 
 <a href="https://github.com/Swapnil042">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Sheikh Swapnil Musahdhghdfh" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Swapnil042&show_icons=true&theme=gotham" alt="Sheikh Swapnil Musa" />
 </a>
