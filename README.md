@@ -60,8 +60,8 @@ take part in the company's business development.
 - Understanding of REST API
 - Testing API endpoints with Postman
 - Understanding of UML Diagram, Class Diagram, ER Diagram
-- Various algorithms of Machine Learning, Pattern Recognition,
-- Artificial Intelligence Knowledge on Version Control, Git
+- Various algorithms of Machine Learning, Pattern Recognition, Artificial Intelligence
+- Knowledge on Version Control, Git
 <br />
 
 ---
