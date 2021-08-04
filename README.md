@@ -15,8 +15,8 @@ take part in the company's business development.
 :mailbox: Reach me out!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sheikh_swapnil_Musa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-swapnil-musa-8aa9b5185)
-[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:smusa.skh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sheikh_Swapnil_Musa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-swapnil-musa-8aa9b5185)
+[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:smusa.skh@gmail.com)
 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
