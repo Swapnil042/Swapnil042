@@ -1,6 +1,7 @@
+<a target="_blank" href="#"><img width="250" align="right" src="https://github.com/Swapnil042/Swapnil042/blob/deb25ca1ce60576280b7b9480f8bef47ea650dc7/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"></a>
 # Hi , I'm Swapnil  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-rayed-hossain&label=Profile%20views&color=129e00&style=plastic" alt="kazi-rayed-hossain" /> </p>
-<img align="right" alt="Coding"  src="https://github.com/kazi-rayed-hossain/kazi-rayed-hossain/blob/f0299ca30f66e4c6aee5b4e3a26579c419963678/code.gif?raw=true" width="500" height="320" >
+
 
 <br />
 
@@ -53,10 +54,10 @@ take part in the company's business development.
   
 ## &#x1f4c8; GitHub Stats
 ---
-<a href="https://github.com/kazi-rayed-hossain">
+<a href="https://github.com/Swapnil042">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&show_icons=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/kazi-rayed-hossain">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Kazi Rayed Hossain" />
+<a href="https://github.com/Swapnil042">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Sheikh Swapnil Musa" />
 </a>
